@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.headers {
+    text-align:center;
+    font-size: 2.7em;
+    border: thick outset green;
+    background-color:;
+    font-family:Audiowide;
+}
+
+.paraskiing {
+    font-family: 'Boogaloo';
+    color:rgb(66, 135, 245);
+    background-color:beige;
+}
+
+#places {
+    border:medium dashed lightgray;
+}
+
+.secondary-headers {
+    font-size:23px;
+    border:orange dotted medium;
+    font-family: 'Bungee Spice';
+}
+
+img {
+    width:80%;
+    border:thin black solid;
+}
+
+#SkiKnowledge {
+    font-size:2em;
+    border-radius:20%;
+}
+
+ul {
+    color:darkgreen;
+    background-color:lightblue;
+    border:medium outset lightgreen;
+}
+
+ol {
+    color:darkgreen;
+    background-color:lightblue;
+    border:medium outset darkblue;
+}
+
+
